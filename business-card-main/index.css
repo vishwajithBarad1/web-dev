@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    background-color: rgb(49, 49, 49);
+}
+.avathar{
+    width: 150px;
+    border-radius: 5px;
+    border: 1px solid #7598FF;
+}
+.card{
+    display: flex;
+    border: 1px solid black;
+    padding: 20px;
+    width: 400px;
+    background-color: rgb(220, 255, 117);
+    justify-content: space-around;
+    margin: 0 auto;
+    border-bottom: 10px solid #7598FF;
+    border-radius: 5px;
+}
+.info{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(42, 51, 17);
+}
